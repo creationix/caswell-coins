@@ -1,0 +1,30 @@
+{
+	"resource_pack_name": "CaswellCoins",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"caswell.coin1": {
+			"textures": "textures/items/coin1"
+		},
+		"caswell.coin2": {
+			"textures": "textures/items/coin2"
+		},
+		"caswell.coin4": {
+			"textures": "textures/items/coin4"
+		},
+		"caswell.coin8": {
+			"textures": "textures/items/coin8"
+		},
+		"caswell.coin16": {
+			"textures": "textures/items/coin16"
+		},
+		"caswell.coin32": {
+			"textures": "textures/items/coin32"
+		},
+		"caswell.coin64": {
+			"textures": "textures/items/coin64"
+		},
+		"caswell.coin128": {
+			"textures": "textures/items/coin128"
+		}
+	}
+}

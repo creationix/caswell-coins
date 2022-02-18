@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Tim Caswell"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.2.4"
+			],
+			"dash": [
+				"0.7.1"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			18,
+			0
+		],
+		"uuid": "f29afb16-9730-4056-a3fd-e2e45387f899",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "82b09259-ea0f-4f89-a0a0-8f02f015c6ee",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "ab424907-3ec5-421c-aecb-a240426fdc84",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

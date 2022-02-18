@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "caswell:buy-redstone"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "priority": 4,
+        "ingredients": [
+            {
+                "item": "caswell:coin1"
+            },
+            {
+                "item": "caswell:coin2"
+            }
+        ],
+        "result": {
+            "item": "redstone"
+        }
+    }
+}

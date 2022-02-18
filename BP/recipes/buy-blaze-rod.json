@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "caswell:buy-blaze-rod"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "priority": 4,
+        "ingredients": [
+            {
+                "item": "caswell:coin32"
+            }
+        ],
+        "result": {
+            "item": "blaze_rod"
+        }
+    }
+}

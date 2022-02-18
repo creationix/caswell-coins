@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "caswell:sell-copper"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "priority": 4,
+        "ingredients": [
+            {
+                "item": "copper_block"
+            }
+        ],
+        "result": {
+            "item": "caswell:coin1"
+        }
+    }
+}

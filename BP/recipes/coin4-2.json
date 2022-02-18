@@ -1,0 +1,13 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": { "identifier": "caswell:coin4-2" },
+        "priority": 2,
+        "tags": [ "crafting_table" ],
+        "ingredients": [{ "item": "caswell:coin4" }],
+        "result": {
+            "item": "caswell:coin2",
+            "count": 2
+        }
+    }
+}    

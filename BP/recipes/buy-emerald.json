@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "caswell:buy-emerald"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "priority": 4,
+        "ingredients": [
+            {
+                "item": "caswell:coin16"
+            },
+            {
+                "item": "caswell:coin4"
+            }
+        ],
+        "result": {
+            "item": "emerald"
+        }
+    }
+}

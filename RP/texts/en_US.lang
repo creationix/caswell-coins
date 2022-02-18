@@ -1,0 +1,10 @@
+pack.name=CaswellCoins RP
+pack.description=Caswell Coins in Minecraft!
+item.caswell:coin1.name=Caswell Coin (1)
+item.caswell:coin2.name=Caswell Coin (2)
+item.caswell:coin4.name=Caswell Coin (4)
+item.caswell:coin8.name=Caswell Coin (8)
+item.caswell:coin16.name=Caswell Coin (16)
+item.caswell:coin32.name=Caswell Coin (32)
+item.caswell:coin64.name=Caswell Coin (64)
+item.caswell:coin128.name=Caswell Coin (128)

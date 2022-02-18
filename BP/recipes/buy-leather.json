@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "caswell:buy-leather"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "priority": 3,
+        "ingredients": [
+            {
+                "item": "caswell:coin4"
+            },
+            {
+                "item": "caswell:coin2"
+            }
+        ],
+        "result": {
+            "item": "leather"
+        }
+    }
+}

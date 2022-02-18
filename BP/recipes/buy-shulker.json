@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "caswell:buy-shulker-box"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "priority": 4,
+        "ingredients": [
+            {
+                "item": "caswell:coin64"
+            }
+        ],
+        "result": {
+            "item": "shulker_box"
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+	"type": "minecraftBedrock",
+	"name": "CaswellCoins",
+	"namespace": "bridge",
+	"authors": [
+		"Tim Caswell"
+	],
+	"targetVersion": "1.18.20",
+	"description": "Caswell Coins in Minecraft!",
+	"experimentalGameplay": {
+		"holidayCreatorFeatures": false,
+		"creationOfCustomBiomes": false,
+		"additionalModdingCapabilities": false,
+		"upcomingCreatorFeatures": false,
+		"enableGameTestFramework": false,
+		"experimentalMolangFeatures": false,
+		"theWildUpdate": false,
+		"educationEdition": false
+	},
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"compiler": {
+		"plugins": [
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			[
+				"simpleRewrite",
+				{
+					"packName": "CaswellCoins"
+				}
+			]
+		]
+	}
+}
